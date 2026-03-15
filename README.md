@@ -1,4 +1,4 @@
-p1 a 
+ignore p1 a 
 # Awesome Python
 
 An opinionated list of awesome Python frameworks, libraries, software and resources.
